@@ -1,13 +1,12 @@
 # Hi 👋, I'm Artur Trokhymenko
 
-### 🚀 Junior / Trainee Fullstack Developer (.NET & React)
+### 🚀 Junior / Trainee Fullstack Developer
 
 I am a Computer Science student passionate about building scalable web applications, RESTful APIs, and responsive frontends. 
 
 * 🔭 **Currently working on:** [SRTEV](https://github.com/Marameslo/SRTEV/WebBackend) — Electric Vehicle Rental Platform
 * 🎓 **Education:** Computer Science at Lublin University of Technology
 * 📫 **Contact me:** arturtrokhymenko@gmail.com
-* 🔗 **Connect:** [LinkedIn](https://linkedin.com/in/your-linkedin)
 
 ---
 
